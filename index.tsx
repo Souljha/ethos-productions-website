@@ -80,13 +80,13 @@ const pricingPlans = [
 const testimonials = [
     {
         quote: "Ethos Productions delivered a final product that exceeded our wildest expectations. Their team's creativity and professionalism were evident in every step of the process. Highly recommended!",
-        name: "Azziz Kara",
-        title: "Founder, Kofifi Media Group."
+        name: "Michael Ragebult",
+        title: "Founder, Weflow TV."
     },
     {
         quote: "Working with Ethos was an absolute pleasure. They are masters of their craft, turning our vague concept into a compelling visual story. Their attention to detail is second to none.",
-        name: "Joseph Cotty",
-        title: "Marketing Director, La Masia."
+        name: "Brendon Carlton",
+        title: "Director, Nexus AI Partners."
     }
 ];
 
